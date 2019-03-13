@@ -2,9 +2,7 @@
 # out the current state.
 
 def display_board(board = [" "," "," "," "," "," "," "," "," "])
+  lines = "-----------"
   puts ""
-  puts "-----------"
-  
-  puts "-----------"
   
 end
