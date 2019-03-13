@@ -3,6 +3,7 @@
 
 def display_board(board = [" "," "," "," "," "," "," "," "," "])
   lines = "-----------"
-  puts ""
   
+  puts "#{lines}"
+  puts "#{lines}"
 end
